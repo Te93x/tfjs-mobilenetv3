@@ -1,1 +1,1 @@
-Please visit [here](https://medium.com/@tesheng_93/image-classification-in-the-browser-with-tensorflow-js-react-and-github-pages-753cd9561543) for medium article on Image classification in the browser with TensorFlow.js, React and GitHub Pages.
+Please visit [here](https://teai.dev/posts/image-classification-in-the-browser-with-tensorflowjs-react-and-github-pages/) for article on Image classification in the browser with TensorFlow.js, React and GitHub Pages.
